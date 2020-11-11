@@ -253,11 +253,11 @@ export default {
 }
 .swiper-button-prev,
 .swiper-button-next {
-  color: white;
+  color: white!important;
   outline: none;
 }
 .swiper-pagination-bullet-active {
-  background: white;
+  background: white!important;
 }
 .swiper-pagination-bullet {
   width: 12px;
