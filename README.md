@@ -1,6 +1,7 @@
 # 🏠 Cards - Imóveis
 Projeto com exemplo de cards informativos de imóveis.
 Estrutura responsiva, com [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) para slider de fotos responsivo.
+> Deploy https://cardsimoveis.herokuapp.com/
 
 ## Stack
 
