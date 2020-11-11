@@ -207,6 +207,13 @@ export default {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
+  animation: 1s appear;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
 }
 .card .img {
   position: relative;
