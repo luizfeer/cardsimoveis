@@ -283,7 +283,9 @@ export default {
 .box {
   display: flex;
   gap: 1rem;
-  /* flex-flow: column wrap;  */
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
 }
 .info-text .regiao,
 .info-text .info {
@@ -309,7 +311,7 @@ export default {
   align-items: center;
   gap: 0.3rem;
   text-align: center;
-  margin: 1rem 0;
+  margin-top: 1rem;
   cursor: pointer;
   transition: 0.3s;
 }
