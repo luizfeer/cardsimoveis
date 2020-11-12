@@ -286,6 +286,7 @@ export default {
   justify-content: flex-start;
   flex-wrap: wrap;
   align-content: flex-start;
+  margin-top: 1rem;
 }
 .info-text .regiao,
 .info-text .info {
@@ -311,7 +312,6 @@ export default {
   align-items: center;
   gap: 0.3rem;
   text-align: center;
-  margin-top: 1rem;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -327,6 +327,7 @@ export default {
   direction: row;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .more .value .prev {
