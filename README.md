@@ -1,11 +1,15 @@
 # 🏠 Cards - Imóveis
 Projeto com exemplo de cards informativos de imóveis.
 Estrutura responsiva, com [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) para slider de fotos responsivo.
-> Deploy https://cardsimoveis.herokuapp.com/
+
+> Deploy Home https://cardsimoveis.herokuapp.com/
+
+> Skeleton Demo https://cardsimoveis.herokuapp.com/skeleton
+![GIF Skeleton Page](https://raw.githubusercontent.com/luizfeer/cardsimoveis/main/assets/img/skeleton.gif)
 
 ## Stack
 
--[Nuxt.js docs](https://nuxtjs.org).
+[Nuxt.js docs](https://nuxtjs.org).
 
 
 ## Instalando e Rodando Localmente
